@@ -118,7 +118,7 @@ form {
   margin: 0 auto;
   padding: 10px;
   background: #40414F;
-
+  border-radius: 25px;
   display: flex;
   flex-direction: row;
   gap: 10px;
@@ -129,7 +129,7 @@ textarea {
 
   color: #fff;
   font-size: 18px;
-
+  
   padding: 10px;
   background: transparent;
   border-radius: 5px;
@@ -147,4 +147,7 @@ button {
 form img {
   width: 30px;
   height: 30px;
+  
+
+
 }
